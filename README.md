@@ -1,4 +1,4 @@
-# Olá, eu sou o Alexandre Lopes! 👋
+# Opa! Sou o Alexandre Lopes! 👋
 
 Sou um desenvolvedor apaixonado por entender como as coisas funcionam "por baixo dos panos". Minha jornada na programação tem como foco a construção de uma base sólida em Ciência da Computação, unindo o rigor e a performance do **C** com a versatilidade e o poder de automação do **Python**.
 
@@ -6,7 +6,7 @@ Atualmente, estou expandindo meus conhecimentos para o consumo de APIs, modelage
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Quem sou?
 
 * 🔭 Atualmente trabalhando em: Projetos de automação e ferramentas CLI multiplataforma.
 * 🌱 Atualmente aprendendo: **Consumo de APIs REST**, **Análise de Dados** e **Arquitetura de Software**.
@@ -46,22 +46,22 @@ Aqui estão as tecnologias que utilizo no meu dia a dia para construir meus proj
 
 ## 🏆 Projetos em Destaque
 
-* 🔍 **[Motor de Busca em C (Indexador)](link-para-o-repo):** Um algoritmo de busca de alto desempenho utilizando Tabelas Hash e Índice Invertido para encontrar palavras instantaneamente em milhares de arquivos locais.
-* 🛒 **[Sistemas de Gerenciamento (Mercadinho)](link-para-o-repo):** Simuladores de caixa desenvolvidos tanto em C quanto em Python, aplicando estruturas de dados dinâmicas e persistência em arquivos físicos (CSV/TXT).
-* 🚰 **[Automação e Lembretes (Python)](link-para-o-repo):** Scripts rodando em background (Daemons) consumindo APIs nativas do Sistema Operacional para notificações interativas multiplataforma.
+* * 💈 **[Sistema de Agendamento para Barbearia](https://github.com/lopsxzale/sistema-barbearia-bd2):** Uma API REST (FastAPI/Python) focada na integração com banco de dados relacional (SQLite). Implementa propriedades ACID e controle de concorrência pessimista (*Locks*) para garantir a integridade dos dados e evitar colisões em reservas simultâneas.
+* 🔍 **[Motor de Busca em C (Indexador)](https://github.com/lopsxzale/Index---LP1):** Um algoritmo de busca de alto desempenho utilizando Tabelas Hash e Índice Invertido para encontrar palavras instantaneamente em milhares de arquivos locais.
+* 🧰 **[Baú de Estudos & Fundamentos](https://github.com/lopsxzale/Fundamentos):** Meu repositório focado em consolidar a base técnica. Inclui implementações avançadas, como uma **Lista Genérica (TAD) em C** utilizando ponteiros opacos e *callbacks*, além de scripts de automação em Python.
 
 ---
 
 ## 📈 Minhas Estatísticas no GitHub
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lopsxzale&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub de lopsxzale" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopsxzale&layout=compact&theme=radical&cache_seconds=1800" alt="Linguagens mais usadas" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lopsxzale&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopsxzale&layout=compact&theme=radical" alt="Linguagens" height="180" />
+</div>
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alexandrelopes0" target="_blank">
