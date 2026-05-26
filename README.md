@@ -46,7 +46,7 @@ Aqui estão as tecnologias que utilizo no meu dia a dia para construir meus proj
 
 ## 🏆 Projetos em Destaque
 
-* * 💈 **[Sistema de Agendamento para Barbearia](https://github.com/lopsxzale/sistema-barbearia-bd2):** Uma API REST (FastAPI/Python) focada na integração com banco de dados relacional (SQLite). Implementa propriedades ACID e controle de concorrência pessimista (*Locks*) para garantir a integridade dos dados e evitar colisões em reservas simultâneas.
+* 💈 **[Sistema de Agendamento para Barbearia](https://github.com/lopsxzale/sistema-barbearia-bd2):** Uma API REST (FastAPI/Python) focada na integração com banco de dados relacional (SQLite). Implementa propriedades ACID e controle de concorrência pessimista (*Locks*) para garantir a integridade dos dados e evitar colisões em reservas simultâneas.
 * 🔍 **[Motor de Busca em C (Indexador)](https://github.com/lopsxzale/Index---LP1):** Um algoritmo de busca de alto desempenho utilizando Tabelas Hash e Índice Invertido para encontrar palavras instantaneamente em milhares de arquivos locais.
 * 🧰 **[Baú de Estudos & Fundamentos](https://github.com/lopsxzale/Fundamentos):** Meu repositório focado em consolidar a base técnica. Inclui implementações avançadas, como uma **Lista Genérica (TAD) em C** utilizando ponteiros opacos e *callbacks*, além de scripts de automação em Python.
 
@@ -55,8 +55,8 @@ Aqui estão as tecnologias que utilizo no meu dia a dia para construir meus proj
 ## 📈 Minhas Estatísticas no GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lopsxzale&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopsxzale&layout=compact&theme=radical" alt="Linguagens" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lopsxzale&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lopsxzale&layout=compact&theme=radical&v=1" alt="Linguagens" height="180" />
 </div>
 
 ---
