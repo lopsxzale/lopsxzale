@@ -55,8 +55,8 @@ Aqui estão as tecnologias que utilizo no meu dia a dia para construir meus proj
 ## 📈 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lopsxzale&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopsxzale&layout=compact&theme=radical"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lopsxzale&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub de lopsxzale" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopsxzale&layout=compact&theme=radical&cache_seconds=1800" alt="Linguagens mais usadas" />
 </p>
 
 ---
