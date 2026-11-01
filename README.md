@@ -1,73 +1,71 @@
-# Opa! Sou o Alexandre Lopes! 👋
+<a href="https://lopsxzale.github.io/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png" />
+    <img src="assets/banner-light.png" alt="Alexandre Lopes — Dev & Dados · Aprendiz de Armazém na Dunas · Ceará, BR" width="100%" />
+  </picture>
+</a>
 
-Sou um desenvolvedor apaixonado por entender como as coisas funcionam "por baixo dos panos". Minha jornada na programação tem como foco a construção de uma base sólida em Ciência da Computação, unindo o rigor e a performance do **C** com a versatilidade e o poder de automação do **Python**.
-
-Atualmente, estou expandindo meus conhecimentos para o consumo de APIs, modelagem de **Bancos de Dados** e Análise de Dados, sempre com foco em resolver problemas do mundo real. 🌎
-
----
-
-## 🚀 Quem sou?
-
-* 🔭 Atualmente trabalhando em: Projetos de automação e ferramentas CLI multiplataforma.
-* 🌱 Atualmente aprendendo: **Consumo de APIs REST**, **Análise de Dados** e **Arquitetura de Software**.
-* 🧠 Foco técnico: Estruturas de Dados (Tabelas Hash, Listas Encadeadas), Manipulação de Memória e File I/O.
-* 🗄️ Bancos de Dados: Conhecimento sólido em modelagem relacional, linguagem SQL e estruturação NoSQL.
-* ⚡ Curiosidade: Gosto de construir a mesma aplicação em diferentes linguagens (alto vs. baixo nível) para analisar o impacto na performance e na arquitetura.
-
----
-
-## 💻 Minha Stack e Ferramentas
-
-Aqui estão as tecnologias que utilizo no meu dia a dia para construir meus projetos:
-
-### Linguagens
-<p align="left">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<p>
+  <a href="https://lopsxzale.github.io/"><b>Portfólio</b></a> ·
+  <a href="https://www.linkedin.com/in/alexandrelopes0/">LinkedIn</a> ·
+  <a href="mailto:alefilhoyt@gmail.com">E-mail</a> ·
+  <a href="https://lopsxzale.github.io/?foco=dados">Portfólio · foco Dados</a> ·
+  <a href="https://lopsxzale.github.io/?foco=dev">Portfólio · foco Dev</a>
 </p>
 
-### Bancos de Dados
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+Ciência da Computação no **IFCE** (5º período) e Aprendiz de Armazém na **Dunas · Revenda Ambev**.
+Criei e mantenho o **Sinc**, um SaaS de agendamento e gestão para barbearias em produção, e uso **SQL** e **Python** para responder perguntas reais com dados: do pipeline ao achado, e do achado à recomendação.
 
-### Ferramentas & Tecnologias
-<p align="left">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/MySQL_Workbench-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-</p>
+## Lotes expedidos
+
+| Lote | Projeto | Pergunta → resultado | Links |
+|:---:|---|---|---|
+| **001** | **Sinc**<br><sub>Next.js · TypeScript · PostgreSQL · Supabase</sub> | SaaS multi-tenant em produção desde 10/2026, usado por barbearias reais. Regras no banco: 42 migrations, RLS nas 17 tabelas, mais de 80 funções SQL e uma restrição que impede dois agendamentos no mesmo horário. | [no ar](https://sincbarber.com.br) |
+| **002** | **Combustível & Logística**<br><sub>Python · pandas · SQL · PostgreSQL · pytest · CI</sub> | *Quanto custa abastecer uma operação de distribuição, onde e com que risco?* 2,6 mi preços da ANP (2023–2025): o Norte paga R$ 6,40/L, **7,4% acima** do resto do país. Pipeline idempotente, 32 testes e simulador de custo de frota. | [no ar](https://combustivel-logistica.vercel.app/pt/) · [código](https://github.com/lopsxzale/logistics-distribution-analytics) |
+| **003** | **E-commerce Sales Analytics**<br><sub>SQL · PostgreSQL · Python · SciPy · Docker</sub> | *O que 100 mil pedidos revelam sobre o e-commerce brasileiro?* Atrasar a entrega derruba a nota de **4,29 para 2,27** (Mann-Whitney, IC 95%). Window functions, segmentação RFM e site bilíngue com Lighthouse 100. | [no ar](https://vendas-e-commercebr.vercel.app/pt/) · [código](https://github.com/lopsxzale/ecommerce-sales-analytics) |
+
+<sub>Baú de estudos: [Fundamentos](https://github.com/lopsxzale/Fundamentos) — TAD lista genérica em C com ponteiros opacos e callbacks, e daemons de automação em Python.</sub>
+
+## Estoque
+
+**Dados** &nbsp;
+![SQL](https://img.shields.io/badge/SQL-16161A?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16161A?style=flat-square&logo=postgresql&logoColor=FF5A1F)
+![Python](https://img.shields.io/badge/Python-16161A?style=flat-square&logo=python&logoColor=FF5A1F)
+![pandas](https://img.shields.io/badge/pandas-16161A?style=flat-square&logo=pandas&logoColor=FF5A1F)
+![SciPy](https://img.shields.io/badge/SciPy-16161A?style=flat-square&logo=scipy&logoColor=FF5A1F)
+
+**Dev** &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-16161A?style=flat-square&logo=typescript&logoColor=FF5A1F)
+![Next.js](https://img.shields.io/badge/Next.js-16161A?style=flat-square&logo=nextdotjs&logoColor=FF5A1F)
+![Supabase](https://img.shields.io/badge/Supabase-16161A?style=flat-square&logo=supabase&logoColor=FF5A1F)
+![C](https://img.shields.io/badge/C-16161A?style=flat-square&logo=c&logoColor=FF5A1F)
+
+**Qualidade** &nbsp;
+![pytest](https://img.shields.io/badge/pytest-16161A?style=flat-square&logo=pytest&logoColor=FF5A1F)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-16161A?style=flat-square&logo=githubactions&logoColor=FF5A1F)
+![Git](https://img.shields.io/badge/Git-16161A?style=flat-square&logo=git&logoColor=FF5A1F)
+
+## Agora
+
+Evoluindo o Sinc e fazendo análises de dados em SQL e Python.
+
+<details open>
+<summary><b>In English</b></summary>
+
+<br>
+
+Computer Science student at **IFCE** (5th semester) and Warehouse Apprentice at **Dunas · Ambev Distributor**, based in Ceará, Brazil (UTC−3).
+I built and maintain **Sinc**, a booking and management SaaS for barbershops in production, and I use **SQL** and **Python** to answer real questions with data.
+
+- **Sinc** — multi-tenant SaaS in production: PostgreSQL with row-level security on every table, 80+ SQL functions and a constraint that makes double bookings impossible. [Live](https://sincbarber.com.br)
+- **Fuel & Logistics** — 2.6M fuel prices from Brazil's regulator: the North pays 7.4% more for diesel than the rest of the country. Tested pipeline and fleet cost simulator. [Live](https://combustivel-logistica.vercel.app/en/) · [Code](https://github.com/lopsxzale/logistics-distribution-analytics)
+- **E-commerce Sales Analytics** — 100k orders: a late delivery drops the review score from 4.29 to 2.27. Analytical SQL, statistical testing and RFM segmentation. [Live](https://vendas-e-commercebr.vercel.app/en/) · [Code](https://github.com/lopsxzale/ecommerce-sales-analytics)
+
+Full portfolio with a PDF CV: **[lopsxzale.github.io/?lang=en](https://lopsxzale.github.io/?lang=en)**
+
+</details>
 
 ---
 
-## 🏆 Projetos em Destaque
-
-* 💈 **[Sistema de Agendamento para Barbearia](https://github.com/lopsxzale/sistema-barbearia-bd2):** Uma API REST (FastAPI/Python) focada na integração com banco de dados relacional (SQLite). Implementa propriedades ACID e controle de concorrência pessimista (*Locks*) para garantir a integridade dos dados e evitar colisões em reservas simultâneas.
-* 🔍 **[Motor de Busca em C (Indexador)](https://github.com/lopsxzale/Index---LP1):** Um algoritmo de busca de alto desempenho utilizando Tabelas Hash e Índice Invertido para encontrar palavras instantaneamente em milhares de arquivos locais.
-* 🧰 **[Baú de Estudos & Fundamentos](https://github.com/lopsxzale/Fundamentos):** Meu repositório focado em consolidar a base técnica. Inclui implementações avançadas, como uma **Lista Genérica (TAD) em C** utilizando ponteiros opacos e *callbacks*, além de scripts de automação em Python.
-
----
-
-## 📈 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lopsxzale&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lopsxzale&layout=compact&theme=radical&v=1" alt="Linguagens" height="180" />
-</div>
-
----
-
-## 📫 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/alexandrelopes0" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:alefilhoyt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<sub>Mais detalhes, focos Dev/Dados e CV em PDF em <a href="https://lopsxzale.github.io/">lopsxzale.github.io</a>.</sub>
